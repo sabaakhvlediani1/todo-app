@@ -1,3 +1,12 @@
+
+
+![Screenshot 2024-05-26 183047](https://github.com/sabaakhvlediani1/todo-app/assets/74502365/b9e8db56-7b68-4837-8aed-22b67dbf4933)
+![Screenshot 2024-05-26 182959](https://github.com/sabaakhvlediani1/todo-app/assets/74502365/94169905-f023-4948-88c9-dbf6b2797d59)
+![Screenshot 2024-05-26 182823](https://github.com/sabaakhvlediani1/todo-app/assets/74502365/4263384a-243c-4a84-962f-b6c216374706)
+![Screenshot 2024-05-26 183126](https://github.com/sabaakhvlediani1/todo-app/assets/74502365/86be37a8-a409-4462-9126-3bd56db5fd37)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
